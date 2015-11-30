@@ -1,2 +1,2 @@
 # threadsafemap
-Thread safe implementation of Map
+Thread safe implementation of Map (с++)
